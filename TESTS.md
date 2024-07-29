@@ -12,12 +12,12 @@ sudo -H pip3 install pytest
 - ## 00 Suma Números
     ### Run command
     ```
-    pytest assignments/00SumaNumeros
+    pytest assignments/00EvenNumbersRange
     ```
 
 - ## 01 Suma Hasta N
     ### Run command
     ```
-    pytest assignments/01SumaHastaN
+    pytest assignments/01AlternateCharacters
     ```
 
