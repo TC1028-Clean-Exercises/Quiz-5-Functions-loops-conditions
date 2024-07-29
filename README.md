@@ -1,12 +1,6 @@
 
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con estatutos de repetición
+# Exercises with functions, loops and conditions
 
-- 00 Suma Números
-- 01 Suma Hasta N
-# Navegación - Home
-Para regresar al Home del repositorio, use:
-
-```
-cd /workspaces/t4.while
-```
+- 00 Even numbers range
+- 01 Alternate characters

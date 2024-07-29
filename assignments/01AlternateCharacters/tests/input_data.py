@@ -5,38 +5,28 @@ input_values = [
     # Test case 1
     (
         #Inputs
-        ["9"],
+        ["0"],
         # Ouputs
-        ["", "45"],
+        ["Enter number of characters: "],
         # Message in case of failure
-        ["La suma no es correcta."]
+        ["No characters should be printed."]
     ),
     # Test case 2
     (
         #Inputs
-        ["155"],
+        ["2"],
         # Ouputs
-        ["", "12090"],
+        ["Enter number of characters: ", "#", "%"],
         # Message in case of failure
-        ["La suma no es correcta."]
+        ["Only two characters printed."]
     ),
     # Test case 3
     (
         #Inputs
-        ["12090"],
+        ["8"],
         # Ouputs
-        ["", "73090095"],
+        ["Enter number of characters: ", "#", "%", "#", "%", "#", "%", "#", "%"],
         # Message in case of failure
-        ["La suma no es correcta."]
+        ["Eight characters printed."]
     ),
-    # Test case 4
-    (
-        #Inputs
-        ["0"],
-        # Ouputs
-        ["", "0"],
-        # Message in case of failure
-        ["¿Consideraste el caso de que el input sea 0?"]
-    )
-    
 ]
