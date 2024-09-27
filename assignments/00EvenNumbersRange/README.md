@@ -46,10 +46,10 @@ Enter upper limit: 12
 Even numbers in the range: 5
 
 Enter lower limit: 7
-Enter lower limit: 2
+Enter upper limit: 2
 Even numbers in the range: 0
 
 Enter lower limit: 100
-Enter lower limit: 250
+Enter upper limit: 250
 Even numbers in the range: 76
 ```
